@@ -1,0 +1,117 @@
+{
+  "aspiring Developer": [
+    {
+      "title": "a aspiring software developer",
+      "color": "rgb(57, 153, 0)"
+    },
+    {
+      "title": "a youTuber",
+      "color": "rgb(157, 100, 0)"
+    }
+
+  ],
+  "about": [
+    "Nathalie is first and foremost and child of God. I am someone who never gives up and is always determind to follow my goals.I am passionate about taking care of the people nearest and dearest to my heart. I am a hard worker and has the type of energy where people just want to be around me."
+  ],
+  "education": [
+    {
+      "id": 1,
+      "year": 2019,
+      "place": "Forest Heights Highschool",
+      "type": "Matric Certificate",
+      "certificate": ""
+    },
+    {
+      "id": 2,
+      "year": 2022,
+      "place": "",
+      "type": "Computer Lieracy certificate",
+      "certificate": ""
+    }
+   
+
+  ],
+  "skills": [
+    {
+      "title": "HTML",
+      "experience": " I have an excellence undrstanding of what HTML is and how to use it to my imagination."
+    },
+    {
+      "title": "CSS & BOOTSTRAP",
+      "experience": "I've have been working on different types of databases since 2009, both SQL-structured and document-based. I enjoy working on a database; for me, that is where the magic happens. A well-structured database is the result of data integrity and many more."
+    },
+    {
+      "title": "JAVASCRIPT",
+      "experience": "When it comes to programming, I have a lot to say, but I will be brief. Programming and database management are the skills that will stay with me forever, even though it is my first time to come across another programming language. It is crazy how I knew it syntax before starting coding. I have a decade of working experience on the following programming languages: C++, Python, Delphi, Javascript, VB.Net, C#, and Java. I still want to learn more about them."
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Taryn-Lee ",
+      "surname": "Walbrugh",
+      "quotes": "Nathalie has helped me in more ways than one ,she's always lending a helping hand whether it be with coding or in everyday life .Nathalie is truly an amazing person who has shown me that being who you are and sticking by your values really benefits you in the long run.",
+      "profile": ""
+    },
+    {
+      "name": "Anathi",
+      "surname": "Josefu",
+      "quotes": "Nathalie is a happy and thriving classmate who loves school. She is very responsible ,passionate  and enthusiastic in her school work. She is a joy  to have in class. She is always willing to assist her peers when they ask for help.  I am glad that I got  a chance to be her classmate . She is amazing.",
+      "profile": ""
+    },
+    {
+      "name": "Matthew ",
+      "surname": "Swain",
+      "quotes": "Nathalie is an outstanding and amazing individual, has unmatched enthusiasm. Her determination and drive is out of this world. She has amazing communicative skills and has a cheerful and positive personality that always shines and it is a privilege to have her as a work colleague but mainly as a companion an friend.",
+      "profile": ""
+    },
+    {
+      "name": "Jason",
+      "surname": "September",
+      "quotes": "Nathalie Willemse is a hard working individual ,always full of energy and very inspiring when it comes to her work. She always has a positive outlook on situations that may prove to be challenging and that inspires others around her.",
+      "profile": ""
+    },
+    {
+      "name": "Joel",
+      "surname": "Mukanya",
+      "quotes": "Nathalie is a creative, and well-behaved individual who always prioritizes her work. She excels in collaborating with others and has gained proficiency in HTML5, CSS, and Bootstrap. Including Git and GitHub.",
+      "profile": ""
+    }
+  ],
+  "projects": [
+    {
+      "name": "To-do List",
+      "description": "I built this application using HTML, CSS, and Javascript.",
+      "image": "https://drive.google.com/file/d/1Sprgrf_0fvOWNh65CtTdhwjQt2sfPDId/view?usp=drive_link",
+      "gitHub": "https://github.com/nathaliewillemse21/To-do-list.git",
+      "vercel": "https://to-do-list-one-alpha.vercel.app/"
+    },
+    {
+      "name": "Calculator",
+      "description": "This a RGB to Hex claculator I built with Javascript, CSS and HTML",
+      "image": "https://drive.google.com/file/d/1NOrQp1NSbsFaczV5m5eyEZrkWpA3JpLK/view?usp=drive_link",
+      "gitHub": "https://github.com/nathaliewillemse21/RGBtohex.git",
+      "vercel": "https://rg-btohex-nathaliewillemse21s-projects.vercel.app/"
+    },
+    {
+      "name": "Mochii-Mochii",
+      "description": "Mochii-Mochi is a project I built with Javascript, CSS, Boostrap and HTML",
+      "image": "https://drive.google.com/file/d/1Iu6j6De2lC-ZqXHE98tsdcvDxj3fxJ_Q/view?usp=drive_link",
+      "gitHub": "https://github.com/nathaliewillemse21/Project-.git",
+      "vercel": "https://project-git-main-nathaliewillemse21s-projects.vercel.app/index.html"
+    },
+    {
+      "name": "Flipcard",
+      "description": "A flicard I buitl with HTML and CSS",
+      "image": "https://drive.google.com/file/d/1C0820MOfmo9AU85y886ZRZAZzO9fJTc2/view?usp=drive_link",
+      "gitHub": "https://github.com/nathaliewillemse21/flipCard.git",
+      "vercel": "https://flip-card-sigma.vercel.app/"
+    },
+    {
+      "name": "JS Portfolio",
+      "description": "My first portfolio with the help of BOOTSTRAP, CSS and HTML",
+      "image": "https://drive.google.com/file/d/15vMyfNL3rDnBYPNMv3y4DBbeMk2dRHIt/view?usp=drive_link",
+      "gitHub": "https://github.com/nathaliewillemse21/Nathalie-Portfolio.git",
+      "vercel": "https://portfolio-nathalie-rkky.vercel.app/"
+    }
+  ]
+}
