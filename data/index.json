@@ -25,7 +25,7 @@
       "id": 2,
       "year": 2022,
       "place": "",
-      "type": "Computer Lieracy certificate",
+      "type": "Computer Literacy certificate",
       "certificate": ""
     }
    
@@ -50,12 +50,18 @@
       "name": "Taryn-Lee ",
       "surname": "Walbrugh",
       "quotes": "Nathalie has helped me in more ways than one ,she's always lending a helping hand whether it be with coding or in everyday life .Nathalie is truly an amazing person who has shown me that being who you are and sticking by your values really benefits you in the long run.",
-      "profile": ""
+      "profile": "./assets/taryn.jpg"
     },
     {
       "name": "Anathi",
       "surname": "Josefu",
       "quotes": "Nathalie is a happy and thriving classmate who loves school. She is very responsible ,passionate  and enthusiastic in her school work. She is a joy  to have in class. She is always willing to assist her peers when they ask for help.  I am glad that I got  a chance to be her classmate . She is amazing.",
+      "profile": ""
+    },
+    {
+      "name": "Veronique",
+      "surname": "Nappie",
+      "quotes": "Nathalie has an incredible energy and is very hardworking. She is diligent when it comes to her work and puts in a lot of effort to broaden her knowledge. She is a team player and always willing to help her peers in whatever capacity is required of her. I see her being a great contributor to any team she is a part of and know that she will achieve great things.",
       "profile": ""
     },
     {
@@ -78,6 +84,13 @@
     }
   ],
   "projects": [
+    {   
+      "name": "Mochii-Mochii",
+      "description": "Mochii-Mochi is a project I built with Javascript, CSS, Boostrap and HTML",
+      "image": "https://drive.google.com/file/d/1Iu6j6De2lC-ZqXHE98tsdcvDxj3fxJ_Q/view?usp=drive_link",
+      "gitHub": "https://github.com/nathaliewillemse21/Project-.git",
+      "vercel": "https://project-git-main-nathaliewillemse21s-projects.vercel.app/index.html"
+    },
     {
       "name": "To-do List",
       "description": "I built this application using HTML, CSS, and Javascript.",
@@ -92,13 +105,7 @@
       "gitHub": "https://github.com/nathaliewillemse21/RGBtohex.git",
       "vercel": "https://rg-btohex-nathaliewillemse21s-projects.vercel.app/"
     },
-    {
-      "name": "Mochii-Mochii",
-      "description": "Mochii-Mochi is a project I built with Javascript, CSS, Boostrap and HTML",
-      "image": "https://drive.google.com/file/d/1Iu6j6De2lC-ZqXHE98tsdcvDxj3fxJ_Q/view?usp=drive_link",
-      "gitHub": "https://github.com/nathaliewillemse21/Project-.git",
-      "vercel": "https://project-git-main-nathaliewillemse21s-projects.vercel.app/index.html"
-    },
+
     {
       "name": "Flipcard",
       "description": "A flicard I buitl with HTML and CSS",
@@ -107,11 +114,18 @@
       "vercel": "https://flip-card-sigma.vercel.app/"
     },
     {
-      "name": "JS Portfolio",
-      "description": "My first portfolio with the help of BOOTSTRAP, CSS and HTML",
-      "image": "https://drive.google.com/file/d/15vMyfNL3rDnBYPNMv3y4DBbeMk2dRHIt/view?usp=drive_link",
-      "gitHub": "https://github.com/nathaliewillemse21/Nathalie-Portfolio.git",
-      "vercel": "https://portfolio-nathalie-rkky.vercel.app/"
+      "name": "Calculator",
+      "description": "My first calculator with the help of CSS and HTML",
+      "image": "https://drive.google.com/file/d/1bF6gUmOmuEFFBKo-P3BzcCFnBU3eXHUE/view?usp=drive_link",
+      "gitHub": "https://github.com/nathaliewillemse21/calculatorExample.git",
+      "vercel": "https://calculator-example.vercel.app/"
+    },
+    {
+      "name": "Interest Calculator",
+      "description": "I built this interest calculator with the help of Javascript, CSS and HTML",
+      "image": "https://drive.google.com/file/d/11Ge6fFZ_T8qPST40pGw7i3DFeK_yL7gc/view?usp=drive_link",
+      "gitHub": "https://github.com/nathaliewillemse21/InterestCalculator.git",
+      "vercel": "https://interest-calculator-five.vercel.app/"
     }
   ]
 }
