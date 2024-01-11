@@ -1,48 +1,31 @@
 {
-  "aspiring Developer": [
-    {
-      "title": "a aspiring software developer",
-      "color": "rgb(57, 153, 0)"
-    },
-    {
-      "title": "a youTuber",
-      "color": "rgb(157, 100, 0)"
-    }
-
-  ],
-  "about": [
-    "Nathalie is first and foremost and child of God. I am someone who never gives up and is always determind to follow my goals.I am passionate about taking care of the people nearest and dearest to my heart. I am a hard worker and has the type of energy where people just want to be around me."
-  ],
   "education": [
     {
       "id": 1,
       "year": 2019,
       "place": "Forest Heights Highschool",
-      "type": "Matric Certificate",
-      "certificate": ""
+      "type": "Matric Certificate"
     },
     {
       "id": 2,
       "year": 2022,
-      "place": "",
-      "type": "Computer Literacy certificate",
-      "certificate": ""
+      "place": "Eersterivier Computers",
+      "type": "Computer Literacy certificate"
     }
-   
 
   ],
   "skills": [
     {
       "title": "HTML",
-      "experience": " I have an excellence undrstanding of what HTML is and how to use it to my imagination."
+      "experience": "Html is very basic and my experience in it has taught me alot of how a simple is website is built."
     },
     {
       "title": "CSS & BOOTSTRAP",
-      "experience": "I've have been working on different types of databases since 2009, both SQL-structured and document-based. I enjoy working on a database; for me, that is where the magic happens. A well-structured database is the result of data integrity and many more."
+      "experience": "I am very comfortable in css and bootstrap and since I have been working on it it have broaden my thinking of how websites are styled and how it was made the way it is."
     },
     {
       "title": "JAVASCRIPT",
-      "experience": "When it comes to programming, I have a lot to say, but I will be brief. Programming and database management are the skills that will stay with me forever, even though it is my first time to come across another programming language. It is crazy how I knew it syntax before starting coding. I have a decade of working experience on the following programming languages: C++, Python, Delphi, Javascript, VB.Net, C#, and Java. I still want to learn more about them."
+      "experience": "I am very proficient in understanding how javascript works and will allow this journey to take me further in understanding the language"
     }
   ],
   "testimonials": [
@@ -84,24 +67,24 @@
     }
   ],
   "projects": [
-    {   
-      "name": "Mochii-Mochii",
-      "description": "Mochii-Mochi is a project I built with Javascript, CSS, Boostrap and HTML",
-      "image": "https://drive.google.com/file/d/1Iu6j6De2lC-ZqXHE98tsdcvDxj3fxJ_Q/view?usp=drive_link",
-      "gitHub": "https://github.com/nathaliewillemse21/Project-.git",
-      "vercel": "https://project-git-main-nathaliewillemse21s-projects.vercel.app/index.html"
-    },
-    {
-      "name": "To-do List",
-      "description": "I built this application using HTML, CSS, and Javascript.",
-      "image": "https://drive.google.com/file/d/1Sprgrf_0fvOWNh65CtTdhwjQt2sfPDId/view?usp=drive_link",
-      "gitHub": "https://github.com/nathaliewillemse21/To-do-list.git",
-      "vercel": "https://to-do-list-one-alpha.vercel.app/"
+    {  
+      "name": "Interest Calculator",
+      "description": "I built this interest calculator with the help of Javascript, CSS and HTML",
+      "image": "https://i.ibb.co/6W6tHGm/Screenshot-2024-01-10-155432.png",
+      "gitHub": "https://github.com/nathaliewillemse21/InterestCalculator.git",
+      "vercel": "https://interest-calculator-five.vercel.app/" 
     },
     {
       "name": "Calculator",
+      "description": "My first calculator with the help of CSS and HTML",
+      "image": "https://i.ibb.co/QDYXHr1/Screenshot-2024-01-10-154944.png",
+      "gitHub": "https://github.com/nathaliewillemse21/calculatorExample.git",
+      "vercel": "https://calculator-example.vercel.app/"      
+    },
+    {
+      "name": " Rgb  to Hex Calculator",
       "description": "This a RGB to Hex claculator I built with Javascript, CSS and HTML",
-      "image": "https://drive.google.com/file/d/1NOrQp1NSbsFaczV5m5eyEZrkWpA3JpLK/view?usp=drive_link",
+      "image": "https://i.ibb.co/Lk3Jxvh/Screenshot-2024-01-08-134344.png",
       "gitHub": "https://github.com/nathaliewillemse21/RGBtohex.git",
       "vercel": "https://rg-btohex-nathaliewillemse21s-projects.vercel.app/"
     },
@@ -109,23 +92,23 @@
     {
       "name": "Flipcard",
       "description": "A flicard I buitl with HTML and CSS",
-      "image": "https://drive.google.com/file/d/1C0820MOfmo9AU85y886ZRZAZzO9fJTc2/view?usp=drive_link",
+      "image": "https://i.ibb.co/SDjqD1r/Screenshot-2024-01-08-134738.png",
       "gitHub": "https://github.com/nathaliewillemse21/flipCard.git",
       "vercel": "https://flip-card-sigma.vercel.app/"
     },
     {
-      "name": "Calculator",
-      "description": "My first calculator with the help of CSS and HTML",
-      "image": "https://drive.google.com/file/d/1bF6gUmOmuEFFBKo-P3BzcCFnBU3eXHUE/view?usp=drive_link",
-      "gitHub": "https://github.com/nathaliewillemse21/calculatorExample.git",
-      "vercel": "https://calculator-example.vercel.app/"
+      "name": "To-do List",
+      "description": "I built this application using HTML, CSS, and Javascript.",
+      "image": "https://i.ibb.co/1qN0vsW/Screenshot-2024-01-08-133639.png",
+      "gitHub": "https://github.com/nathaliewillemse21/To-do-list.git",
+      "vercel": "https://to-do-list-one-alpha.vercel.app/"
     },
     {
-      "name": "Interest Calculator",
-      "description": "I built this interest calculator with the help of Javascript, CSS and HTML",
-      "image": "https://drive.google.com/file/d/11Ge6fFZ_T8qPST40pGw7i3DFeK_yL7gc/view?usp=drive_link",
-      "gitHub": "https://github.com/nathaliewillemse21/InterestCalculator.git",
-      "vercel": "https://interest-calculator-five.vercel.app/"
+     "name": "Mochii-Mochii",
+      "description": "Mochii-Mochi is a project I built with Javascript, CSS, Boostrap and HTML",
+      "image": "https://i.ibb.co/VDPk63z/Screenshot-2024-01-08-133031.png",
+      "gitHub": "https://github.com/nathaliewillemse21/Project-.git",
+      "vercel": "https://project-git-main-nathaliewillemse21s-projects.vercel.app/index.html"
     }
   ]
 }
