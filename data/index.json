@@ -12,7 +12,6 @@
       "place": "Eersterivier Computers",
       "type": "Computer Literacy certificate"
     }
-
   ],
   "skills": [
     {
@@ -33,7 +32,7 @@
       "name": "Taryn-Lee ",
       "surname": "Walbrugh",
       "quotes": "Nathalie has helped me in more ways than one ,she's always lending a helping hand whether it be with coding or in everyday life .Nathalie is truly an amazing person who has shown me that being who you are and sticking by your values really benefits you in the long run.",
-      "profile": "https://i.ibb.co/vjTyKk9/20231022-161303.jpg"
+      "profile": "https://i.ibb.co/f0w4gnR/taryn.jpg"
     },
     {
       "name": "Anathi",
@@ -51,7 +50,7 @@
       "name": "Matthew ",
       "surname": "Swain",
       "quotes": "Nathalie is an outstanding and amazing individual, has unmatched enthusiasm. Her determination and drive is out of this world. She has amazing communicative skills and has a cheerful and positive personality that always shines and it is a privilege to have her as a work colleague but mainly as a companion an friend.",
-      "profile": "https://i.ibb.co/MntDQCq/IMG-20191224-165149-374.jpg"
+      "profile": "https://i.ibb.co/MntDQCq/IMG-20191224-165149-374.jpg" 
     },
     {
       "name": "Jason",
@@ -67,19 +66,19 @@
     }
   ],
   "projects": [
-    {  
+    {
       "name": "Interest Calculator",
       "description": "I built this interest calculator with the help of Javascript, CSS and HTML",
       "image": "https://i.ibb.co/6W6tHGm/Screenshot-2024-01-10-155432.png",
       "gitHub": "https://github.com/nathaliewillemse21/InterestCalculator.git",
-      "vercel": "https://interest-calculator-five.vercel.app/" 
+      "vercel": "https://interest-calculator-five.vercel.app/"
     },
     {
       "name": "Calculator",
       "description": "My first calculator with the help of CSS and HTML",
       "image": "https://i.ibb.co/QDYXHr1/Screenshot-2024-01-10-154944.png",
       "gitHub": "https://github.com/nathaliewillemse21/calculatorExample.git",
-      "vercel": "https://calculator-example.vercel.app/"      
+      "vercel": "https://calculator-example.vercel.app/"
     },
     {
       "name": " Rgb  to Hex Calculator",
@@ -104,7 +103,7 @@
       "vercel": "https://to-do-list-one-alpha.vercel.app/"
     },
     {
-     "name": "Mochii-Mochii",
+      "name": "Mochii-Mochii",
       "description": "Mochii-Mochi is a project I built with Javascript, CSS, Boostrap and HTML",
       "image": "https://i.ibb.co/Q69xX7Q/Screenshot-2024-01-11-144704.png",
       "gitHub": "https://github.com/nathaliewillemse21/Project-.git",
