@@ -15,16 +15,32 @@
   ],
   "skills": [
     {
-      "title": "HTML",
+      "title": "https://i.ibb.co/1qvByTj/html.png",
       "experience": "Html is very basic and my experience in it has taught me alot of how a simple is website is built."
     },
     {
-      "title": "CSS & BOOTSTRAP",
-      "experience": "I am very comfortable in css and bootstrap and since I have been working on it it have broaden my thinking of how websites are styled and how it was made the way it is."
+      "title": "https://i.ibb.co/NZTC2YL/css.png",
+      "experience": "I am very comfortable in CSS and since I have been working on it it have broaden my thinking of how websites are styled and how it was made the way it is."
     },
     {
-      "title": "JAVASCRIPT",
-      "experience": "I am very proficient in understanding how javascript works and will allow this journey to take me further in understanding the language"
+      "title": "https://i.ibb.co/mJKL936/bootstrap.png",
+      "experience": "I am very comfortable in Bootstrap and since I have been working on it it have broaden my thinking of how websites are styled and how it was made the way it is."
+    },
+    {
+      "title": "https://i.ibb.co/X5BJ0R8/javascript.jpg",
+      "experience": "I am very proficient in understanding how Javascript works and will allow this journey to take me further in understanding the language"
+    },
+    {
+      "title": "https://i.ibb.co/0mB3jDF/vuejs.png",
+      "experience": "I am very proficient in understanding how Vue JS works and will allow this journey to take me further in understanding the language and how oit is similar to javascript"
+    },
+    {
+      "title": "https://i.ibb.co/nDDSm6D/mysql.png",
+      "experience": "Learning Mysql has open doors in backend that I have not believe possible and hope to learn more about it."
+    },
+    {
+      "title": "https://i.ibb.co/Hh6P0t1/nodejs.png",
+      "experience": "I understand alot how Node JS works and the pasrt it plays in a backend developer."
     }
   ],
   "testimonials": [
@@ -34,6 +50,7 @@
       "quotes": "Nathalie has helped me in more ways than one ,she's always lending a helping hand whether it be with coding or in everyday life .Nathalie is truly an amazing person who has shown me that being who you are and sticking by your values really benefits you in the long run.",
       "profile": "https://i.ibb.co/f0w4gnR/taryn.jpg"
     },
+
     {
       "name": "Anathi",
       "surname": "Josefu",
@@ -50,7 +67,7 @@
       "name": "Matthew ",
       "surname": "Swain",
       "quotes": "Nathalie is an outstanding and amazing individual, has unmatched enthusiasm. Her determination and drive is out of this world. She has amazing communicative skills and has a cheerful and positive personality that always shines and it is a privilege to have her as a work colleague but mainly as a companion an friend.",
-      "profile": "https://i.ibb.co/MntDQCq/IMG-20191224-165149-374.jpg" 
+      "profile": "https://i.ibb.co/MntDQCq/IMG-20191224-165149-374.jpg"
     },
     {
       "name": "Jason",
