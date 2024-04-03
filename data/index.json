@@ -40,7 +40,7 @@
     },
     {
       "title": "https://i.ibb.co/Hh6P0t1/nodejs.png",
-      "experience": "I understand alot how Node JS works and the pasrt it plays in a backend developer."
+      "experience": "I understand alot how Node JS works and the part it plays in a backend developer."
     }
   ],
   "testimonials": [
@@ -84,6 +84,20 @@
   ],
   "projects": [
     {
+      "name": "Capstone Project",
+      "description": "I built my capstone project with the help of HTML, Vue JS, Mysql, Node Js, CSS and Bootstrap",
+      "image": "https://i.ibb.co/6W6tHGm/Screenshot-2024-01-10-155432.png",
+      "gitHub": "https://github.com/nathaliewillemse21/CapstoneProject.git",
+      "vercel": "https://interest-calculator-five.vercel.app/"
+    },
+    {
+      "name": "Node js Project",
+      "description": "My partner and I built this site with the help of HTML, Vue JS, Mysql, Node Js, CSS and Bootstrap",
+      "image": "https://i.ibb.co/6W6tHGm/Screenshot-2024-01-10-155432.png",
+      "gitHub": "https://github.com/nathaliewillemse21/nodejsProject.git",
+      "vercel": "https://interest-calculator-five.vercel.app/"
+    },
+    {
       "name": "Interest Calculator",
       "description": "I built this interest calculator with the help of Javascript, CSS and HTML",
       "image": "https://i.ibb.co/6W6tHGm/Screenshot-2024-01-10-155432.png",
@@ -107,7 +121,7 @@
 
     {
       "name": "Flipcard",
-      "description": "A flicard I buitl with HTML and CSS",
+      "description": "A flipcard I build with HTML and CSS",
       "image": "https://i.ibb.co/SDjqD1r/Screenshot-2024-01-08-134738.png",
       "gitHub": "https://github.com/nathaliewillemse21/flipCard.git",
       "vercel": "https://flip-card-sigma.vercel.app/"
